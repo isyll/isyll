@@ -21,7 +21,7 @@ I'm a passionate **Software Developer** from **Senegal**. I specialize in **web 
 
 - **GitHub**: [isyll](https://github.com/isyll)
 - **LinkedIn**: [Ibrahima Sylla](https://www.linkedin.com/in/ibrahima-sylla-9931a61ba/)
-- **Twitter/X**: [@isyll_dev](https://x.com/ibrahimasylla_)
+- **Twitter/X**: [@ibrahimasylla\_](https://x.com/ibrahimasylla_)
 
 ## 🏆 GitHub Stats
 
