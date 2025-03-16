@@ -2,26 +2,26 @@
 
 ## 💻 About Me
 
-I'm a passionate **Software Developer** from **Senegal**. I specialize in **web and mobile development**, working with technologies like **React, Next.js, Flutter, NestJS, Go, and Prisma**. I enjoy building scalable applications and solving complex problems.
+I'm a passionate **Software Developer** from **Senegal**. I specialize in **web and mobile development**, working with technologies like **React, Next.js, Flutter, Go, and Prisma**. I enjoy building scalable applications and solving problems.
 
 ## 🚀 Skills & Technologies
 
 - **Frontend**: React, Next.js, Tailwind CSS, Framer Motion
-- **Backend**: NestJS, Node.js, Express, Prisma, Spring Boot
+- **Backend**: Node.js, Express, Prisma, Spring Boot
 - **Mobile**: Flutter, Dart
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Other**: WebSockets, Docker, CI/CD, GitHub Actions
 
 ## 🌱 Currently Learning
 
-- Advanced **Rust** for backend development
-- Exploring **AI & Machine Learning** applications
+- Exploring **Go & gRPC** for backend development
+- Curiosity about **C# & .NET** applications
 
 ## 📫 Connect With Me
 
 - **GitHub**: [isyll](https://github.com/isyll)
-- **LinkedIn**: [Ibrahima Sylla](https://www.linkedin.com/in/ibrahima-sylla/)
-- **Twitter/X**: [@isyll_dev](https://twitter.com/isyll_dev)
+- **LinkedIn**: [Ibrahima Sylla](https://www.linkedin.com/in/ibrahima-sylla-9931a61ba/)
+- **Twitter/X**: [@isyll_dev](https://x.com/ibrahimasylla_)
 
 ## 🏆 GitHub Stats
 
