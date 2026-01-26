@@ -7,9 +7,9 @@ I'm a passionate **Software Developer** from **Senegal**. I specialize in **web 
 ## 🚀 Skills & Technologies
 
 - **Frontend**: React, Next.js, Tailwind CSS, Framer Motion
-- **Backend**: Node.js, Express, Prisma, Spring Boot
+- **Backend**: Golang, Node.js, Express, Prisma, Spring Boot, Django
 - **Mobile**: Flutter, Dart
-- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Databases**: PostgreSQL, MySQL
 - **Other**: WebSockets, Docker, CI/CD, GitHub Actions
 
 ## 🌱 Currently Learning
