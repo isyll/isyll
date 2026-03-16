@@ -1,33 +1,47 @@
-# 👋 Hello, I'm Ibrahima Sylla
+# Ibrahima Sylla
 
-## 💻 About Me
+Software engineer based in Senegal.
+I work across backend, web and mobile development, with a focus on building reliable services and practical applications.
 
-I'm a passionate **Software Developer** from **Senegal**. I specialize in **web and mobile development**, working with technologies like **React, Next.js, Flutter, Go, and Prisma**. I enjoy building scalable applications and solving problems.
+Most of my work revolves around backend systems, API design and application architecture, while also building user interfaces when needed.
 
-## 🚀 Skills & Technologies
+## Technologies
 
-- **Frontend**: React, Next.js, Tailwind CSS, Framer Motion
-- **Backend**: Golang, Node.js, Express, Prisma, Spring Boot, Django
-- **Mobile**: Flutter, Dart
-- **Databases**: PostgreSQL, MySQL
-- **Other**: WebSockets, Docker, CI/CD, GitHub Actions
+**Languages**
 
-## 🌱 Currently Learning
+* Go
+* Java
+* JavaScript / TypeScript
+* Dart
 
-- Exploring **Go & gRPC** for backend development
-- Curiosity about **C# & .NET** applications
+**Frameworks**
 
-## 📫 Connect With Me
+* Spring Boot
+* Django
+* React
+* Next.js
+* Flutter
 
-- **GitHub**: [isyll](https://github.com/isyll)
-- **LinkedIn**: [Ibrahima Sylla](https://www.linkedin.com/in/ibrahima-sylla-9931a61ba/)
-- **Twitter/X**: [@ibrahimasylla\_](https://x.com/ibrahimasylla_)
+**Data**
 
-## 🏆 GitHub Stats
+* PostgreSQL
+* MySQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyll&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isyll&layout=compact&theme=radical)
+**Infrastructure & Tools**
 
-### 🔥 Fun Fact
+* Docker
+* GitHub Actions
+* WebSockets
+* REST APIs
 
-I love open-source projects, and I'm always looking for new challenges to tackle! 🚀
+## Interests
+
+* Backend architecture and service design
+* Distributed systems
+* Networking and system internals
+
+## Links
+
+* GitHub: https://github.com/isyll
+* LinkedIn: https://www.linkedin.com/in/ibrahima-sylla-9931a61ba/
+* X: https://x.com/ibrahimasylla_
