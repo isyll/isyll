@@ -36,7 +36,7 @@ I've worked with teams locally and internationally — from Groupe Sonatel and O
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-isyll.vercel.app/api?username=isyll&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="170" src="https://github-readme-stats-isyll.vercel.app/api?username=isyll&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats-isyll.vercel.app/api/top-langs/?username=isyll&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
